@@ -1,5 +1,6 @@
-Pohádka
-
+Pohádka - text
+Karel Plíhal
+----------------------
 Takhle nějak to bylo:
 Jedlo se, zpívalo, pilo
 Princezna zářila štěstím
@@ -26,7 +27,7 @@ Náhle se za oknem objevil skřítek
 Rozhrnul oponu z máminejch kytek
 Pěkně se usmál a pěkně se podíval
 A pak mi potichu do ucha zazpíval:
-
+=================================
 Dej mi ruku svou, studenou od okenních skel
 Všichni tě mezi sebe zvou
 A já jsem tu proto, abys šel
